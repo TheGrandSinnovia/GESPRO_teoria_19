@@ -3,3 +3,11 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 
 
 ## Grupos
+
+* Ana Salces Mansilla
+* Alberto García Gutiérrez
+* Óscar Valverde Escolar
+* Marcos Romano Ibáñez
+* Miriam Torres Calvo
+* Ana Portugal Tomé
+* Rodrigo Perdigero Mencía
